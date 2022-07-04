@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTesting", "VRTesting.csproj", "{27EA2878-AA3A-073D-D404-5EA36B770ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTesting.Editor", "VRTesting.Editor.csproj", "{29D47020-BD20-9D0B-F60A-C1BD51DD3EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EA2878-AA3A-073D-D404-5EA36B770ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EA2878-AA3A-073D-D404-5EA36B770ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EA2878-AA3A-073D-D404-5EA36B770ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EA2878-AA3A-073D-D404-5EA36B770ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D47020-BD20-9D0B-F60A-C1BD51DD3EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D47020-BD20-9D0B-F60A-C1BD51DD3EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D47020-BD20-9D0B-F60A-C1BD51DD3EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D47020-BD20-9D0B-F60A-C1BD51DD3EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
